@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {Carousel} from "react-bootstrap"
+
 import { Link } from "react-router-dom";
 import "./HomePage.css"
 
