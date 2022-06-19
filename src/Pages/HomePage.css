@@ -1,0 +1,135 @@
+.products-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0% 10% 0% 10%;
+    
+}
+.slide{
+    width: 100%;
+    height: 700px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Date-launch-post-whatsapp-banner-desktop.jpg?v=1654259038");
+    background-size: cover;
+    display: flex;
+    justify-content: left;
+    justify-items: center;
+}
+.slide h1{
+   
+    color: white;
+    font-size: 40px;
+
+}
+.heading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.heading h1{
+    font-size: 40px;
+}
+.heading p{
+    font-size: 20px;
+}
+.hero-btn{
+    border: none;
+    background-color: #447112;
+    padding: 15px;
+    color: white;
+    font-size: large;
+    border-radius: 15px;
+}
+.text-slide{
+    padding-top: 200px;
+    padding-left: 30px;
+}
+
+
+
+
+
+
+.indv-product{
+    width: 40%;
+    padding: 10px;
+   
+}
+
+.indv-product img{
+    width: 100%;
+    border-radius: 7%;
+}
+
+.indv-product button{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    padding: 8px;
+    font-size: medium;
+    background-color: rgb(189, 54, 5);
+    color: white;
+}
+
+.title{
+    color: #222;
+    font-family: Bitte;
+    font-size: 1.52em;
+    font-weight: 400;
+    letter-spacing: .04em;
+    line-height: 1.7;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.ads-div{
+    margin-top: 100px;
+   width: 100%;
+}
+
+.scratch{
+    width: 100%;
+}
+
+.uper-green{
+    padding: 0% 10% 0% 10%;
+    background-color: #447112
+}
+
+.img-ads{
+    width: 40%;
+}
+
+.text-div{
+    width: 50%;padding-top: 70px;
+    color: white;
+}
+.green-div{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -5px;
+  
+}
+
+.text-div p{
+    text-align: left;
+    line-height: 30px;
+}
+
+.tags {
+    text-align: left;
+}
+.btn{
+    padding: 10px;
+    border: none;
+    width: 150px;
+    background-color: white;
+    font-size: large;
+    border-radius: 15px;
+    
+}
+.btn-div{
+    padding-top: 50px;
+    display: flex;
+    justify-content: left;
+}
